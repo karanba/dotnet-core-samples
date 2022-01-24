@@ -1,5 +1,5 @@
 using System;
-
+using System.IO;
 
 namespace DotnetWS.DesignPatterns.Adapter 
 {
