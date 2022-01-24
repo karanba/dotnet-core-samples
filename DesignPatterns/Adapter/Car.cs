@@ -1,5 +1,6 @@
 using System;
 
+
 namespace DotnetWS.DesignPatterns.Adapter 
 {
     public class Car : IDrive 
